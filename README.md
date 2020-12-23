@@ -1,4 +1,4 @@
-# A Animated CSS Icon Navbar
+# An Animated CSS Icon Navbar
 
 It is not responsive. However, low px also gives the same appearance.
 
